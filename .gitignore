@@ -1,2 +1,4 @@
 # Ignorar carpeta env
 env
+#ingnorar config vscode
+.vscode
